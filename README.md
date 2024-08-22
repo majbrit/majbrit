@@ -9,6 +9,3 @@ I am currently studying media informatics at the City University of Applied Scie
 - [GitLab](https://gitlab.com/majbrit)
 
 #
-
-https://github.com/majbrit/majbrit/assets/58175351/201e389f-31be-4b9b-911b-cdee6a043af3
-
