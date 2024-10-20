@@ -1,7 +1,7 @@
 ### Hey, I'm Majbrit Schöttner
 #
 
-I am currently studying media informatics at the City University of Applied Sciences in Bremen.
+I am currently studying Computer Science (Complex Software Systems) at the City University of Applied Sciences in Bremen.
 
 - [Portfolio](https://majbrit.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/majbrit-schöttner-264384238)
