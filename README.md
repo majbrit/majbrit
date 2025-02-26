@@ -16,7 +16,7 @@ I am currently studying Computer Science (Complex Software Systems) at the City 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=majbrit&theme=radical)
 
-![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=majbrit&theme=radical)
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=majbrit&theme=radical&combine_all_yearly_contributions=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=majbrit&color=fe428e)
 
