@@ -21,4 +21,6 @@ I am currently studying Computer Science (Complex Software Systems) at the City 
 ![Profile Views](https://komarev.com/ghpvc/?username=majbrit&color=fe428e)
 
 
-
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=majbrit&theme=radical" alt="Majbrit's GitHub Stats"/>
+</div>
