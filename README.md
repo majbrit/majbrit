@@ -1,4 +1,4 @@
-### Hey, I'm Majbrit Schöttner
+### Hey, I'm Majbrit Schöttner 👩🏼‍💻
 #
 
 I am currently studying Computer Science (Complex Software Systems) at the City University of Applied Sciences in Bremen.
