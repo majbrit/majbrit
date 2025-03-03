@@ -29,3 +29,5 @@ I am currently studying Computer Science (Complex Software Systems) at the City 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=majbrit&theme=radical" alt="Majbrit's GitHub Stats"/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=majbrit&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
