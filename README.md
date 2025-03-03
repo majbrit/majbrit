@@ -11,7 +11,7 @@ I am currently studying Computer Science (Complex Software Systems) at the City 
 #
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&duration=5000&color=fe428e&center=true&vCenter=true&width=435&lines=Hallo;Hello;Hej;Moin" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&duration=5000&color=fe428e&left=true&vCenter=true&width=435&lines=Hallo;Hello;Hej;Moin" alt="Typing SVG"/>
 
 #
 
@@ -26,6 +26,6 @@ I am currently studying Computer Science (Complex Software Systems) at the City 
 ![Profile Views](https://komarev.com/ghpvc/?username=majbrit&color=fe428e)
 
 
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=majbrit&theme=radical" alt="Majbrit's GitHub Stats"/>
-</div>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=majbrit&theme=radical" alt="Majbrit's GitHub Stats"/>
+
