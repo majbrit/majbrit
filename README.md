@@ -15,7 +15,7 @@ I am currently studying Computer Science (Complex Software Systems) at the City 
 
 #
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majbrit&layout=compact&theme=radical&langs_count=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majbrit&layout=compact&theme=radical&langs_count=11) 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=majbrit&show_icons=true&theme=radical)
 
