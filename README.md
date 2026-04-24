@@ -1,7 +1,11 @@
-### Hey, I'm Majbrit Schöttner 👩🏼‍💻
+# <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=6000&color=ffffff&left=true&vCenter=true&width=200&lines=Hallo!;Hello!;Hej!;Moin!" alt="Typing SVG"/>  
+
+# Ich bin Majbrit Schöttner 👩🏼‍💻 
 #
 
-I am currently studying Computer Science (Complex Software Systems) at the City University of Applied Sciences in Bremen.
+
+
+Ich studiere momentan Informatik M.Sc. (Komplexe Softwaresysteme) an der Hochschule Bremen.
 
 - [Portfolio](https://majbrit.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/majbrit-schöttner-264384238)
@@ -9,25 +13,12 @@ I am currently studying Computer Science (Complex Software Systems) at the City 
 - [GitLab](https://gitlab.com/majbrit)
 
 #
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majbrit&layout=compact&bg_color=0,b9d1f8,fefeff&title_color=033070&text_color=033070&border_color=f8b1f3&langs_count=10&hide=PHP,ShaderLab,HLSL,Mathematica,Shell)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=majbrit&show_icons=true&bg_color=0,b9d1f8,fefeff&title_color=033070&text_color=033070&icon_color=3facff&border_color=f8b1f3)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=majbrit&theme=default&background=fefeff&stroke=f8b1f3&ring=3facff&fire=3facff&currStreakLabel=033070)
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&duration=5000&color=fe428e&left=true&vCenter=true&width=435&lines=Hallo;Hello;Hej;Moin" alt="Typing SVG"/>
 
 #
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majbrit&layout=compact&theme=radical&langs_count=11) 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=majbrit&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=majbrit&theme=radical)
-
-![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=majbrit&theme=radical&combine_all_yearly_contributions=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=majbrit&color=fe428e)
-
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=majbrit&theme=radical" alt="Majbrit's GitHub Stats"/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=majbrit&theme=radical&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
