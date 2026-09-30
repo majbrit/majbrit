@@ -8,7 +8,7 @@
 Ich studiere momentan Informatik M.Sc. (Komplexe Softwaresysteme) an der Hochschule Bremen.
 
 - [Portfolio](https://majbrit.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/majbrit-schöttner-264384238)
+- [LinkedIn](https://www.linkedin.com/in/majbrit-schöttner)
 - [XING](https://www.xing.com/profile/Majbrit_Schoettner)
 - [GitLab](https://gitlab.com/majbrit)
 
