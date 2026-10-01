@@ -11,6 +11,7 @@ Ich studiere momentan Informatik M.Sc. (Komplexe Softwaresysteme) an der Hochsch
 - [LinkedIn](https://www.linkedin.com/in/majbrit-schöttner)
 - [XING](https://www.xing.com/profile/Majbrit_Schoettner)
 - [GitLab](https://gitlab.com/majbrit)
+- majbrit . schoettner [at] proton [dot] me
 
 #
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majbrit&layout=compact&bg_color=0,b9d1f8,fefeff&title_color=033070&text_color=033070&border_color=f8b1f3&langs_count=10&hide=PHP,ShaderLab,HLSL,Mathematica,Shell)
